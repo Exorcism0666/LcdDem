@@ -1,5 +1,6 @@
+If you want to install the game and play in local mode:
 
-　　　L c d D e m
+縲縲縲L c d D e m
 
 
 This is a Yume Nikki fangame.
@@ -13,19 +14,19 @@ Before playing, you should install the RPG Maker 2000 RTP.
 
 Controls:
 
-　Decision key.....Z　Enter
-　Cancel key.......X, C, V, B, N,　Esc
-　Movement.........Arrow keys
+縲Decision key.....Z縲Enter
+縲Cancel key.......X, C, V, B, N,縲Esc
+縲Movement.........Arrow keys
 
-　Effect actions are triggered with Shift.
+縲Effect actions are triggered with Shift.
  The Decision key may also need to be used.
 
 
 What helped me:
 
-　・REAPER
-　・wavosaur
-　・Paintgraphic
-　・EDGE
-　・RPGMaker2000
-　・Inkscape
+縲繝ｻREAPER
+縲繝ｻwavosaur
+縲繝ｻPaintgraphic
+縲繝ｻEDGE
+縲繝ｻRPGMaker2000
+縲繝ｻInkscape
